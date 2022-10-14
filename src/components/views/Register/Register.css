@@ -1,0 +1,21 @@
+.container>form {
+    align-self: center;
+    text-align: center;
+    width: 300px;
+    border: 1px solid #dfdfdf;
+    padding: 20px;
+    border-radius: 5px;
+    background: #fff;
+}
+
+
+input {
+    border-radius: 5px;
+    display: block;
+    width: 260px;
+
+}
+
+p {
+    color: red;
+}

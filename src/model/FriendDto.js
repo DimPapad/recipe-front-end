@@ -1,0 +1,6 @@
+export class FriendDto {
+    constructor(id, name) {
+        this.id = id;
+        this.name = name;
+    }
+}
